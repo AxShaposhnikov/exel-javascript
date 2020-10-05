@@ -1,0 +1,28 @@
+{
+  "name": "exel-javascript",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Exel Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxShaposhnikov/exel-javascript.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "Alex Shaposhnikov <alexxforcode@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxShaposhnikov/exel-javascript/issues"
+  },
+  "homepage": "https://github.com/AxShaposhnikov/exel-javascript#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
